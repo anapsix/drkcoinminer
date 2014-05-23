@@ -1,6 +1,6 @@
-# DOCKER-VERSION 0.6.1
+# DOCKER-VERSION 0.11.1
 FROM ubuntu:13.10
-MAINTAINER Anastas Semenov "anapsix@random.io"
+MAINTAINER Anastas Dancha "anapsix@random.io"
 
 # Install 
 RUN apt-get update

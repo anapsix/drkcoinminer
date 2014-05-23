@@ -1,6 +1,6 @@
 ## Darkcoin CPUMiner in Docker container
 
-This Docker contains all you need to mine [DarkCoin](http://darkcoin.io/) image includes [ig0tik3d's cpuminer](https://github.com/ig0tik3d/darkcoin-cpuminer-1.2c) and [elmad's fork with avx/aes instruction support|](https://github.com/elmad/darkcoin-cpuminer-1.3-avx-aes). It used AES version if your CPU support AES/AVX.
+This Docker image contains all you need to mine [DarkCoin](http://darkcoin.io/), thanks to [ig0tik3d's cpuminer](https://github.com/ig0tik3d/darkcoin-cpuminer-1.2c) and [elmad's fork with avx/aes instruction support|](https://github.com/elmad/darkcoin-cpuminer-1.3-avx-aes). It used AES version if your CPU support AES/AVX.
 
 ### Usage
 
